@@ -4,7 +4,7 @@ public class App {
         System.out.println("|   GIT-tehtävä-ryhmä-10    |");
         System.out.println("+---------------------------+\n");
         System.out.println("Tiimi:");
-        System.out.println("** Kehittäjä 1**");
+        System.out.println("** Kehittäjä 1, ANTTON**");
         System.out.println("** Kehittäjä 2**");
         System.out.println("** SEURAAVA**");    //Kirjoita tähän oma nimesi
 
