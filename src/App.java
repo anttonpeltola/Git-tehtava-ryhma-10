@@ -6,10 +6,13 @@ public class App {
         System.out.println("Tiimi:");
         System.out.println("** Kehittäjä 1, ANTTON **");
         System.out.println("** Kehittäjä 2, Miko **");
+        System.out.println("** Kehittäjä 3, Joonas **");
         System.out.println("** SEURAAVA**");    //Kirjoita tähän oma nimesi
 
         System.out.println("\n" + "=".repeat(20));
         System.out.println("\n Aurinkoista syksyä");
+        System.out.println("\n" + "=".repeat(20));
+        System.out.println("\n Synkkää joulua!!");
         System.out.println("\n" + "=".repeat(20));
 
     }
